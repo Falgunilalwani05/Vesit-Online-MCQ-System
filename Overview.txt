@@ -1,0 +1,60 @@
+Features:-
+
+Admin login student login along with new student registeration proper authentication
+Each and every quiz of specific subject in a specific module proper distriibution of subject in where individule quiz will be stored
+
+Multiple quiz of multiple subjects can be added at a time with admin having rights of when to live the quiz and when not to
+
+Student can login to his/her dashboard to view upcoming and attempted quiz also multiple filters available to select through various subjects
+also they can view privious attempt with marks their solution and answer key
+
+Admin Dashboard 
+Here admin can add subjects and their cateogory
+
+admin can view an test how many people have attempted an quiz and how many time an attempt is made with their marks and admin can publish and unpublish the quiz
+
+admin can add new quiz with their options and correct option also font can be changed of an question while adding new questions and it can be edited
+
+
+Technologies used
+Spring Boot
+Angular(Angular Material UI) (React can also be used)
+MySql
+
+
+
+
+
+
+
+
+
+
+MCQ test taking application
+
+
+
+Old System
+When ever there is an class mcq test it is taken with the help of google forms where teacher create an google form and takes mcq test and test submited by student is checked
+by teacher on google form response
+Proposale of new system
+We are proposing replacement of existing system with a very new a very customizable and our own VESIT test taking web application
+It is an custom software build by students for the students and teacher of vesit
+It has an aim of bringing ease of taking a test and giving an test
+Here students will have to register themself and log in to our web portal where they will find their dashboard where student can select through various subjects
+and attempt test assing to them once done they can view and download their score and answer key. A student can anytime in login to the portal to check his or hers 
+previously taken test and can check for solution and results anytime.
+
+Here an Teacher(admin) will have an own dashboard where they can add new class new subjects and new test and they can also publish an test when they want and can restrict 
+according to their need an existing test can be modified and any number of test can be added under the multiple subjects.
+Teacher will be able to view all the students who have taken the test on their dashboard
+
+Overall VESIT test taking web application will be an oneStop place where both students and teacher can get help of taking and giving assesment test which will be used
+by students and teacher of every department 
+
+Technologies that will be used in development are 
+
+1. Java Spring Boot
+2. Angular JS
+
+ 
